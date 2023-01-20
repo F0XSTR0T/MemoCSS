@@ -1,0 +1,29 @@
+@media (min-width: 320px) and (max-width: 480px) {
+  body {
+    background-color: green;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+  body {
+    background-color: red;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1023px) {
+  body {
+    background-color: blue;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1200px) {
+  body {
+    background-color: grey;
+  }
+}
+
+@media (min-width: 1201px) {
+  body {
+    background-color: #666;
+  }
+}
